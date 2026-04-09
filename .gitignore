@@ -1,0 +1,10 @@
+# Environment variables
+.env
+
+# Python generated
+__pycache__/
+*.pyc
+
+# Local IDE/Gemini
+.vscode/
+.gemini/
